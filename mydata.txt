@@ -1,4 +1,10 @@
+{"id":"ryosuke","msg":"すば絵らしい"}
+{"id":"me","msg":"me"}
+{"id":"ryosuke","msg":"ma?"}
 {"id":"","msg":"jjj["}
-{"id":"","msg":"koko"}
-{"id":"","msg":"nakaishi"}
-{"msg":"ccc"}
+{"id":"tuyano","msg":"ふむふむ。"}
+{"id":"hanako","msg":"お疲れ様です～"}
+{"id":"sachiko","msg":"さー、今夜も徹夜だー"}
+{"id":"tuyano","msg":"こんにちは。ちゃんと書けますね！"}
+{"id":"hanako","msg":"こんにちはー。送ってみました。"}
+{"id":"tuyano","msg":"試しに送信してみる。"}
